@@ -17,7 +17,7 @@ IBXSDK is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'IBXSDK'
+pod 'IBXSDK', :git => 'https://github.com/yemingxu/IBXSDK.git'
 ```
 
 ## Author
